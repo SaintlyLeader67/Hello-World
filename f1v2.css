@@ -1,0 +1,51 @@
+#top{
+    background-color: white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#marker{
+    float: right;
+}
+
+#description{
+    text-align: center;
+}
+
+#F1{
+    background-color: white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Ferrari{
+    background-color: red;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    float: left;
+}
+
+#Mercedes{
+    background-color: turquoise;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    float: right;
+}
+
+#RedBull{
+    background-color: blue;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    float: left;
+}
+
+#McLaren{
+    background-color: orange;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    float: right;
+}
