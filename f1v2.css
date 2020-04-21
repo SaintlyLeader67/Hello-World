@@ -30,7 +30,7 @@
     background-color: turquoise;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: right;
+    text-align: left;
     float: right;
 }
 
@@ -46,6 +46,6 @@
     background-color: orange;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: right;
+    text-align: left;
     float: right;
 }
