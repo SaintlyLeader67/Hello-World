@@ -10,12 +10,13 @@ h1{
     background-color: teal;
     color: black;
     text-align: center;
-}
-#operand2{
-    float: right;
+    width: 300px;
+    border: 8px solid black;
 }
 #results{
     background-color: teal;
     color: white;
     text-align: center;
+    width: 1000px;
+    border: 8px solid black;
 }
