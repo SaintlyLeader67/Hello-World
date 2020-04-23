@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: orange;
+    text-align: center;
+}
+#operands{
+    background-color: teal;
+    color: black;
+    text-align: center;
+    width: 300px;
+    border: 8px solid black;
+}
+#results{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    width: 1000px;
+    border: 8px solid black;
+}
